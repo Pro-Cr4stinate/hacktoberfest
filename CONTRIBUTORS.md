@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Pro-Cr4stinate](github.com/Pro-Cr4stinate)
+- Place: Tangerang, Banten, Indonesia
+- Bio: A easily stressed CS student
+- GitHub: [Pro-Cr4stinate](github.com/Pro-Cr4stinate)
